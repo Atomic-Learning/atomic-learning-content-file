@@ -16,8 +16,10 @@
     ],
     "related": [
         "atomic-learning-metadata-file",
+        "atomic-learning-including-hyperlinks",
         "atomic-learning-including-code",
         "atomic-learning-including-pseudocode",
-        "atomic-learning-creating-python-cells"
+        "atomic-learning-creating-python-cells",
+        "atomic-learning-creating-r-cells"
     ]
 }
