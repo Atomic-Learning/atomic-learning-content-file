@@ -1,1 +1,24 @@
+<p>The <code>content.html</code> file in an Atomic Learning page repository contains the main HTML content for the page. This file will be periodically read by a program on the Atomic Learning server and processed to update the page on the website.The contents of this file will be placed inside a larger template. This means it does not require the full setup of a HTML page, just the educational content.</p>
 
+<h2>Formatting Rules and Best-Practice</h2>
+
+<h3>Paragraph Tags</h3>
+
+<p>Normal text on the page should be enclosed in paragraph tags, for example:</p>
+
+<code class="language-html">&lt;p&gt;This is a paragraph.&lt;/p&gt;
+
+&lt;p&gt;This is a second paragraph.&lt;/p&gt;
+</code>
+
+<h3>Headings</h3>
+
+<p>Within the page, the <code class="language-html">&lt;h1&gt;</code> heading is reserved for the title of the page, which is included as part of the template the content will be placed into, and is populated from the <code>metadata.json</code> file. It is encouraged to use <code class="language-html">&lt;h2&gt;</code> to <code class="language-html">&lt;h6&gt;</code> headings as appropriate to structure the content of the page, particularly for large pages.</p>
+
+<h3>Styling</h3>
+
+<p>Styling of the content should be kept to a minimum as the Atomic Learning site uses global settings to style common elements such as tables in a consistent manner. As a result, the <code>style</code> tags should not be used in the <code>content.html</code> file.</p>
+
+<h2>Example</h2>
+
+<p>You can view the <code>content.html</code> file of this page <a href="https://github.com/Atomic-Learning/atomic-learning-content-file/blob/main/content.html" target="_blank" rel="noopener noreferrer">here</a> for an example of what a page might look like.</p>

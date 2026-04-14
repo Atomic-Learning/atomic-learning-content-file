@@ -1,22 +1,23 @@
 {
-    "title": "",
-    "slug": "",
-    "description": "",
+    "title": "Atomic Learning: The content.html Page",
+    "slug": "atomic-learning-content-html",
+    "description": "A description of the content.html page that forms part of the underlying data for a page in the Atomic Learning platform.",
     "authors": [
-        "",
-        ""
+        "chris-cooling"
     ],
     "tags": [
-        "",
-        ""
+        "atomic-learning"
     ],
-    "duration": 0,
+    "duration": 3,
     "prerequisites": [
-        "",
-        ""
+        "html-heading-tags",
+        "html-paragraph-tag",
+        "atomic-learning-content-repositories"
     ],
     "related": [
-        "",
-        ""
+        "atomic-learning-metadata-file",
+        "atomic-learning-including-code",
+        "atomic-learning-including-pseudocode",
+        "atomic-learning-creating-python-cells"
     ]
 }
