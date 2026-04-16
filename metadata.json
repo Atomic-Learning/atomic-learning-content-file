@@ -21,6 +21,7 @@
         "atomic-learning-including-code",
         "atomic-learning-including-pseudocode",
         "atomic-learning-creating-python-cells",
-        "atomic-learning-creating-r-cells"
+        "atomic-learning-creating-r-cells",
+        "atomic-learning-mermaid-diagrams"
     ]
 }
