@@ -8,10 +8,8 @@
     "tags": [
         "atomic-learning"
     ],
-    "duration": 3,
+    "duration": 4,
     "prerequisites": [
-        "html-heading-tags",
-        "html-paragraph-tag",
         "atomic-learning-content-repositories"
     ],
     "related": [
