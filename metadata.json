@@ -11,7 +11,8 @@
     "duration": 4,
     "prerequisites": [
         "atomic-learning-content-repositories",
-        "markdown-text"
+        "markdown-text",
+        "markdown-headings"
     ],
     "related": [
         "atomic-learning-metadata-file",
