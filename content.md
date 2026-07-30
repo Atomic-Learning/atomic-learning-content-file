@@ -21,3 +21,9 @@ The `content.md` file is read by a program running on the server which processes
 # Legacy HTML Files
 
 At time of writing there is an ongoing transition from HTML files to Markdown files for the content of pages on the Atomic Learning website. During this transition, some pages may still have their content defined in an HTML file rather than a Markdown file. When both a present in a repository, the Markdown file will be used. The HTML files will continue to be supported and processed by the server program for now, but this support will eventually be removed. As a result, it is recommended to carry out all new work in Markdown files.
+
+# Accessibility
+
+When creating content for the Atomic Learning website, it is important to make it as accessible as possible. Many accessibility features are taken care of automatically when content files are processed as they enter the main site, but you should still take care to avoid non-accessible design choices in your content. Imperial College London provides  [guidance for producing accessible web materials](https://www.imperial.ac.uk/staff/tools-and-reference/web-guide/training-and-events/materials/accessibility/) and these should be followed as closely as possible. 
+
+If you notice that your content is being presented in a non-accessible way, contact the site administrators so we can improve the site further.
