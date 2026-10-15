@@ -2,9 +2,9 @@ The `content.md` file in an Atomic Learning page repository contains the main co
 
 # Formatting Rules and Best-Practice
 
-## Markdown vs HTML
+## HTML Tags
 
-Many HTML tags are supported in Markdown files, but it is generally preferred to use Markdown syntax where possible for formatting the content of the page, as it is more concise and easier to read in the raw file.
+You should not use raw HTML tags in the `content.md` file. Instead, use Markdown syntax for formatting your content.
 
 ## Headings
 
